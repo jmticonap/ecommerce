@@ -956,7 +956,7 @@ body.dark-theme {
   }
 }
 
-.modal-efect{
+.modal-effect{
   filter: blur(5px);
   transition: 0.5s filter;
 }
